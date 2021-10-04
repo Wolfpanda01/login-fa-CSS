@@ -1,0 +1,20 @@
+body {
+    background-color:linear-gradient(to left to right, blue, dark rgb(252, 130, 205));
+    #loginTitleText{ color: ;
+    font-style:italic;
+    text-align:center;
+    text-tranform:uppercase;
+
+    #logindivText{
+        color:black;
+        font-weight:bolder;}
+    
+}
+.blink_me {
+    animation: blinker 1s linear infinite;
+}
+@keyframes blinker { 50%{
+    opacity: 0;
+}
+
+}
